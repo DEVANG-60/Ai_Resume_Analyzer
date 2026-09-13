@@ -1,0 +1,9 @@
+Role,Skills,Description
+Data Analyst,"Python,SQL,Excel,Pandas,NumPy,Power BI,Tableau,Statistics,Data Visualization","Analyze data and create useful business insights."
+Machine Learning Engineer,"Python,Machine Learning,scikit-learn,Pandas,NumPy,TensorFlow,FastAPI,Docker,MLflow","Build and deploy machine learning models."
+AI Engineer,"Python,Deep Learning,Machine Learning,TensorFlow,PyTorch,LLM,RAG,APIs,FastAPI","Develop AI-powered applications and intelligent systems."
+NLP Engineer,"Python,NLP,Transformers,Hugging Face,Machine Learning,Deep Learning,LLM,Text Processing","Build systems that understand and process human language."
+Computer Vision Engineer,"Python,OpenCV,CNN,Deep Learning,TensorFlow,PyTorch,YOLO,Image Processing","Develop image and video understanding systems."
+Python Developer,"Python,Flask,Django,FastAPI,SQL,Git,REST API,HTML,CSS","Develop applications and backend services using Python."
+Full Stack Developer,"HTML,CSS,JavaScript,React,Node.js,SQL,Git,REST API,MongoDB","Build complete web applications."
+Cloud Engineer,"Python,AWS,Azure,Docker,Kubernetes,Linux,Git,CI/CD,Cloud Computing","Deploy and manage applications and infrastructure in cloud environments."
